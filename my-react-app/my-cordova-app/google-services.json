@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350708747450",
+    "project_id": "android-pushnotification-c7e33",
+    "storage_bucket": "android-pushnotification-c7e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350708747450:android:0e6c765082262421084683",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7aJWAL2yva1f8YSfewy7d5dHGofO1Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
